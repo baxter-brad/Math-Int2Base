@@ -1,9 +1,9 @@
-Math-Int2Base version 0.01
+Math-Int2Base version 0.02
 ==========================
 
-Math::Int2Base - Perl extension for converting decimal (base-10)
-integers into another number base from base-2 to base-62, and back
-to decimal.
+Math::Int2Base - Perl extension for converting decimal
+(base-10) integers into another number base from base-2 to
+base-62, and back to decimal.
 
 INSTALLATION
 
@@ -16,15 +16,13 @@ To install this module type the following:
 
 DEPENDENCIES
 
-This module requires these other modules and libraries:
-
-  none
+None (except Math::BigInt for tests).
 
 COPYRIGHT AND LICENCE
 
 Put the correct copyright and licence information here.
 
-Copyright (C) 2008 by Brad Baxter
+Copyright (C) 2009 by Brad Baxter
 
 This library is free software; you can redistribute it and/or modify
 it under the same terms as Perl itself, either Perl version 5.8.6 or,
